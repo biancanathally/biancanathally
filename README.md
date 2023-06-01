@@ -10,7 +10,17 @@
 
 <div style="display: inline_block"><br>
     <a href="https://github.com/hibianca">
-    <img height="194em" src="https://github-readme-stats.vercel.app/api?username=hibianca&show_icons=true&theme=dracula&include_all _commits=true&count_private=true"/>
+    <!-- <img height="194em" src="https://github-readme-stats.vercel.app/api?username=hibianca&show_icons=true&theme=dracula&include_all _commits=true&count_private=true"/> -->
+    <source
+        srcset="https://github-readme-stats.vercel.app/api?username=hibianca&show_icons=true&theme=dracula"
+        media="(prefers-color-scheme: dark)"
+    />
+    <source
+        srcset="https://github-readme-stats.vercel.app/api?username=hibianca&show_icons=true&theme=dracula"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=hibianca&show_icons=true&theme=dracula" />
+    </picture>
     <img height="194em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hibianca&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
