@@ -16,7 +16,7 @@
 
 <div style="display: inline_block"><br>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FE6E96&width=435&lines=learning+languages" alt="Typing SVG" /></a>
-    <img align="right" height="240" alt="bibis" src="https://cdn.discordapp.com/attachments/1113871889497083968/1113872035664367717/bibis.gif">
+    <img align="right" height="240" width="240" alt="bibis" src="https://cdn.discordapp.com/attachments/1113871889497083968/1113872035664367717/bibis.gif">
 </div>
 
 <div>
@@ -43,7 +43,7 @@
 <div style="display: inline_block"><br>
     <!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FE6E96&width=435&lines=social+medias" alt="Typing SVG" /></a> -->
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FE6E96&width=435&lines=social" alt="Typing SVG" /></a>
-    <img align="right" height="180" alt="study" src="https://media.tenor.com/ubkgsEHmfe4AAAAC/anime-aesthetic.gif">
+    <img align="right" height="180" width="240" alt="study" src="https://media.tenor.com/ubkgsEHmfe4AAAAC/anime-aesthetic.gif">
 </div>
 
 <div>
