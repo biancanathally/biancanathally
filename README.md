@@ -47,7 +47,7 @@
     <img align="center" alt="Bianca-AdobeXD" height="40" width="152" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6">
     <img align="center" alt="Bianca-Figma" height="40" width="115" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
     <img align="center" alt="Bianca-Blender" height="40" width="138" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white">
-    <img align="center" alt="Bianca-Canva" height="40" width="115" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
+    <!-- <img align="center" alt="Bianca-Canva" height="40" width="115" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"> -->
 </div>
 
 <div style="display: inline_block"><br>
@@ -57,7 +57,7 @@
 </div>
 
 <div>
-    <a href="https://www.linkedin.com/in/bianca-lima-066a85235/" target="_blank"><img align="center" alt="Bianca-Linkedin" height="40" width="145" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/biancanathally/" target="_blank"><img align="center" alt="Bianca-Linkedin" height="40" width="145" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="https://www.behance.net/biancanathally" target="_blank"><img align="center" alt="Bianca-Behance" height="40" width="138" src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
 </div>
 
