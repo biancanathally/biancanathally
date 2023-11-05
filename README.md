@@ -18,9 +18,9 @@
         srcset="https://github-readme-stats.vercel.app/api?username=hibianca&show_icons=true&theme=material-palenight"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=hibianca&show_icons=true&theme=material-palenight" />
+    <img height="190em" src="https://github-readme-stats.vercel.app/api?username=hibianca&show_icons=true&theme=material-palenight"/>
     </picture>
-    <img align="right" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hibianca&layout=compact&langs_count=16&theme=material-palenight"/>
+    <img align="" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hibianca&layout=compact&langs_count=16&theme=material-palenight"/>
 </div>
 
 <div style="display: inline_block"><br>
