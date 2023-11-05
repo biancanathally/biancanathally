@@ -1,7 +1,7 @@
 <!-- ### Hello, world! I'm Bianca Nathally -->
 
 <div>
-    <img src="https://cdn.discordapp.com/attachments/1113871889497083968/1113891439261261924/bibisBanner.png">
+    <img src="https://media.discordapp.net/attachments/1113871889497083968/1170692874086649928/Capa_GitHub.png?ex=6559f7b3&is=654782b3&hm=fc9feecbdfa026bf82a8ab00b3dcf41385620107f81e4241816f773da51fbecb&=&width=2040&height=510">
 </div>
 
         • 🍎 I’m learning iOS development at Apple Developer Academy
@@ -10,52 +10,36 @@
 
 <div style="display: inline_block"><br>
     <a href="https://github.com/hibianca">
-    <!-- <img height="194em" src="https://github-readme-stats.vercel.app/api?username=hibianca&show_icons=true&theme=dracula&include_all _commits=true&count_private=true"/> -->
     <source
-        srcset="https://github-readme-stats.vercel.app/api?username=hibianca&show_icons=true&theme=dracula"
+        srcset="https://github-readme-stats.vercel.app/api?username=hibianca&show_icons=true&theme=material-palenight"
         media="(prefers-color-scheme: dark)"
     />
     <source
-        srcset="https://github-readme-stats.vercel.app/api?username=hibianca&show_icons=true&theme=dracula"
+        srcset="https://github-readme-stats.vercel.app/api?username=hibianca&show_icons=true&theme=material-palenight"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=hibianca&show_icons=true&theme=dracula" />
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=hibianca&show_icons=true&theme=material-palenight" />
     </picture>
-    <img align="right" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hibianca&layout=compact&langs_count=16&theme=dracula"/>
+    <img align="right" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hibianca&layout=compact&langs_count=16&theme=material-palenight"/>
 </div>
 
 <div style="display: inline_block"><br>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FE6E96&width=435&lines=learning+languages" alt="Typing SVG" /></a>
-    <img align="right" height="240" width="240" alt="bibis" src="https://cdn.discordapp.com/attachments/1113871889497083968/1113872035664367717/bibis.gif">
+    <!-- <img align="right" height="240" width="240" alt="bibis" src="https://cdn.discordapp.com/attachments/1113871889497083968/1113872035664367717/bibis.gif"> -->
 </div>
 
 <div>
-    <!-- //<img align="center" alt="Bianca-Swift" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg"> -->
-    <!-- <img align="center" alt="Bianca-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -->
     <img align="center" alt="Bianca-Swift" height="40" width="115" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white">
     <img align="center" alt="Bianca-Python" height="40" width="128" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
     <img align="center" alt="Bianca-Html" height="40" width="115" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img align="center" alt="Bianca-CSS" height="40" width="101" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    <img align="center" alt="Bianca-JavaScript" height="40" width="168" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
     <img align="center" alt="Bianca-Java" height="40" width="75" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 </div>
 
 <div style="display: inline_block"><br>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FE6E96&width=435&lines=tools" alt="Typing SVG" /></a>
-<div>
-
-<div>
-    <img align="center" alt="Bianca-AdobePhotoshop" height="40" width="230" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
-    <img align="center" alt="Bianca-AdobeIllustrator" height="40" width="240" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
-    <img align="center" alt="Bianca-AdobeXD" height="40" width="152" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6">
-    <img align="center" alt="Bianca-Figma" height="40" width="115" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-    <img align="center" alt="Bianca-Blender" height="40" width="138" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white">
-    <!-- <img align="center" alt="Bianca-Canva" height="40" width="115" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"> -->
-</div>
-
-<div style="display: inline_block"><br>
-    <!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FE6E96&width=435&lines=social+medias" alt="Typing SVG" /></a> -->
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FE6E96&width=435&lines=social" alt="Typing SVG" /></a>
-    <img align="right" height="180" width="240" alt="study" src="https://media.tenor.com/ubkgsEHmfe4AAAAC/anime-aesthetic.gif">
+    <!-- <img align="right" height="180" width="240" alt="study" src="https://media.tenor.com/ubkgsEHmfe4AAAAC/anime-aesthetic.gif"> -->
 </div>
 
 <div>
