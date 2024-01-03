@@ -1,7 +1,7 @@
 <!-- ### Hello, world! I'm Bianca Nathally -->
 
 <div>
-    <img src="https://media.discordapp.net/attachments/1113871889497083968/1170692874086649928/Capa_GitHub.png?ex=6559f7b3&is=654782b3&hm=fc9feecbdfa026bf82a8ab00b3dcf41385620107f81e4241816f773da51fbecb&=&width=2040&height=510">
+    <img src="https://media.discordapp.net/attachments/1113871889497083968/1192095691753926686/Capa_GitHub_no.png?ex=65a7d4a0&is=65955fa0&hm=920d43df46d79f826de765955061a2d95381aca381ebc7a4e2519c740ec22926&=&format=webp&quality=lossless&width=2044&height=512">
 </div>
 
         • 🤖 I am interested in Natural Language Processing as well as Machine Learning
