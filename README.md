@@ -4,7 +4,8 @@
     <img src="https://media.discordapp.net/attachments/1113871889497083968/1170692874086649928/Capa_GitHub.png?ex=6559f7b3&is=654782b3&hm=fc9feecbdfa026bf82a8ab00b3dcf41385620107f81e4241816f773da51fbecb&=&width=2040&height=510">
 </div>
 
-        • 🍎 I’m learning iOS development at Apple Developer Academy
+        • 🤖 I am interested in Natural Language Processing as well as Machine Learning
+        • 🍎 I’m iOS developer and Apple Developer Academy alumni
         • 😄 Pronouns: she/her
         • ⚡ Fun fact: I know how to solve the Rubik's Cube
 
