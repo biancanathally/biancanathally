@@ -5,7 +5,7 @@
 </div>
 
         • 🤖 I am interested in Natural Language Processing as well as Machine Learning
-        • 🍎 I’m iOS developer and Apple Developer Academy alumni
+        • 🍎 I’m iOS developer and Apple Developer Academy alumni and interested in game development
         • 😄 Pronouns: she/her
         • ⚡ Fun fact: I know how to solve the Rubik's Cube
 
