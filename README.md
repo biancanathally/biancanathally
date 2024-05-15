@@ -1,11 +1,12 @@
 <!-- ### Hello, world! I'm Bianca Nathally -->
 
 <div>
-    <img src="https://media.discordapp.net/attachments/1113871889497083968/1192095691753926686/Capa_GitHub_no.png?ex=65fae320&is=65e86e20&hm=c02766f7c08d954d2a540a6dd07798ceebdd606dc1db2ccfbf00d87541479860&=&format=webp&quality=lossless&width=2046&height=512">
+    <img src="https://github.com/hibianca/hibianca/assets/103222620/33f9bd98-654d-446b-b8c9-85f41fbb9d40">
 </div>
 
         • 🤖 I am interested in Natural Language Processing as well as Machine Learning
-        • 🍎 I’m software and iOS developer and Apple Developer Academy alumni and interested in game development
+        • 💻 I’m game, software and iOS developer
+        • 🍎 Apple Developer Academy alumni
         • 😄 Pronouns: she/her
         • ⚡ Fun fact: I know how to solve the Rubik's Cube
 
@@ -35,7 +36,7 @@
     <img align="center" alt="Bianca-Html" height="40" width="115" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img align="center" alt="Bianca-CSS" height="40" width="101" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <img align="center" alt="Bianca-JavaScript" height="40" width="168" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-    <img align="center" alt="Bianca-Java" height="40" width="75" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+    <img align="center" alt="Bianca-C#" height="40" width="75" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
 </div>
 
 <div style="display: inline_block"><br>
