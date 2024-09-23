@@ -37,7 +37,7 @@
 </div>
 
 <div style="display: inline_block"><br>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FE6E96&width=435&lines=social" alt="Typing SVG" /></a>]
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FE6E96&width=435&lines=social" alt="Typing SVG" /></a>
 </div>
 
 <div>
@@ -45,6 +45,6 @@
     <a href="https://www.behance.net/biancanathally" target="_blank"><img align="center" alt="Bianca-Behance" height="40" width="138" src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
 </div>
 
-<div>
-    [![An image of @hibianca's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hibianca)](https://holopin.io/@hibianca)
-</div>
+<br>
+
+[![An image of @hibianca's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hibianca)](https://holopin.io/@hibianca)
