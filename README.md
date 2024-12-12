@@ -1,8 +1,8 @@
 <!-- ### Hello, world! I'm Bianca Nathally -->
 
-<div>
+<!-- <div>
     <img src="https://github.com/hibianca/hibianca/assets/103222620/33f9bd98-654d-446b-b8c9-85f41fbb9d40">
-</div>
+</div> -->
 
         • 🤖 I am interested in Natural Language Processing as well as Machine Learning
         • 💻 I’m game and iOS developer
