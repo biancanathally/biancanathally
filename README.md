@@ -23,7 +23,7 @@
     <img align="" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hibianca&layout=compact&langs_count=16&theme=material-palenight"/>
 </div>
 
-<div style="display: inline_block"><br>
+<!-- <div style="display: inline_block"><br>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FE6E96&width=435&lines=languages" alt="Typing SVG" /></a>
 </div>
 
@@ -34,7 +34,7 @@
     <img align="center" alt="Bianca-CSS" height="40" width="101" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <img align="center" alt="Bianca-JavaScript" height="40" width="168" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
     <img align="center" alt="Bianca-C#" height="40" width="55" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-</div>
+</div> -->
 
 <div style="display: inline_block"><br>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FE6E96&width=435&lines=social" alt="Typing SVG" /></a>
