@@ -1,7 +1,7 @@
 <!-- ### Hello, world! I'm Bianca Nathally -->
 
 <!-- <div>
-    <img src="https://github.com/hibianca/hibianca/assets/103222620/33f9bd98-654d-446b-b8c9-85f41fbb9d40">
+    <img src="https://github.com/biancanathally/biancanathally/assets/103222620/33f9bd98-654d-446b-b8c9-85f41fbb9d40">
 </div> -->
 
         • 🤖 I am interested in Natural Language Processing as well as Machine Learning
@@ -9,18 +9,18 @@
         • 🍎 Apple Developer Academy alumni
 
 <div style="display: inline_block"><br>
-    <a href="https://github.com/hibianca">
+    <a href="https://github.com/biancanathally">
     <source
-        srcset="https://github-readme-stats.vercel.app/api?username=hibianca&show_icons=true&theme=material-palenight"
+        srcset="https://github-readme-stats.vercel.app/api?username=biancanathally&show_icons=true&theme=material-palenight"
         media="(prefers-color-scheme: dark)"
     />
     <source
-        srcset="https://github-readme-stats.vercel.app/api?username=hibianca&show_icons=true&theme=material-palenight"
+        srcset="https://github-readme-stats.vercel.app/api?username=biancanathally&show_icons=true&theme=material-palenight"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img height="190em" src="https://github-readme-stats.vercel.app/api?username=hibianca&show_icons=true&theme=material-palenight"/>
+    <img height="190em" src="https://github-readme-stats.vercel.app/api?username=biancanathally&show_icons=true&theme=material-palenight"/>
     </picture>
-    <img align="" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hibianca&layout=compact&langs_count=16&theme=material-palenight"/>
+    <img align="" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biancanathally&layout=compact&langs_count=16&theme=material-palenight"/>
 </div>
 
 <!-- <div style="display: inline_block"><br>
