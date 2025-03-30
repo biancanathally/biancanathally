@@ -4,8 +4,8 @@
     <img src="https://github.com/biancanathally/biancanathally/assets/103222620/33f9bd98-654d-446b-b8c9-85f41fbb9d40">
 </div> -->
 
-        • 🤖 I am interested in Natural Language Processing as well as Machine Learning
         • 💻 iOS developer
+        • 🤖 I am interested in Natural Language Processing as well as Machine Learning
         • 🍎 Apple Developer Academy alumni
 
 <div style="display: inline_block"><br>
