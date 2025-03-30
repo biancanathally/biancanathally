@@ -5,7 +5,7 @@
 </div> -->
 
         • 🤖 I am interested in Natural Language Processing as well as Machine Learning
-        • 💻 Game and iOS developer
+        • 💻 iOS developer
         • 🍎 Apple Developer Academy alumni
 
 <div style="display: inline_block"><br>
