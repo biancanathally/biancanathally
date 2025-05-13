@@ -3,8 +3,8 @@
 <div align="center">
   
 ##  Bianca Lima
- 💻 Desenvolvedora<br>
- ✨ Mestranda em Ciência da Computação @ CIn/UFPE<br>
+ 💻 Developer<br>
+ ✨ M.Sc. student Computer Science @ CIn/UFPE<br>
 </div>
 
 <div align="center">
