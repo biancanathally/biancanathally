@@ -4,7 +4,7 @@
   
 ##  Bianca Lima
  💻 Developer<br>
- ✨ M.Sc. student Computer Science @ CIn/UFPE<br>
+ ✨ Pursuing a Master’s Degree in Computer Science @ CIn/UFPE<br>
 </div>
 
 <div align="center">
