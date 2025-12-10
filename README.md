@@ -7,11 +7,11 @@
  ✨ Pursuing a Master’s Degree in Computer Science @ CIn/UFPE<br>
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/biancanathally">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=biancanathally&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biancanathally&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-</div>
+</div> -->
 
 <div style="display: inline_block" align="center"><br>
     <a href="https://www.linkedin.com/in/biancanathally/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
